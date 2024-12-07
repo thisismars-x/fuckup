@@ -20,7 +20,7 @@ Make sure to be in the directory of your virtual environment, where your bin and
 fuckup
 ```
 
-This will do everything by itself, running any code now will be erronous
+This will do everything by itself, just reactivate the environment, running any code now will be erronous
 
 ```python 
 # main.py
