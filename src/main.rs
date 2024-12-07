@@ -1,8 +1,5 @@
 
-// Written on 2024/12/07 while listening to SLIDE by Kanye West
-// https://youtu.be/IAh3r5egwzA?si=cPG3ev6RRQzGLj0Y
-
-
+// Written on 2024/12/07 
 // Hijacks your python virtual environment rendering any other python code uninterpretable
 // To mess with anyone's python virtual environment go to the directory where bin, lib are located
 // and run 'fuckup'
